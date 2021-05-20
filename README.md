@@ -25,6 +25,7 @@ C) Popular Citi Bike Stations in the City
    > The popularity of Citi Bike Stations during the study period is shown. Grove St. Path has been the most popular stations for starting and ending a journey during the study period. 
    > The marketing events could target for stations with a "middle" level popularity currently.
 
+
 With this report the following files are also included in this submission:
 i) Tableau: Citi Bike Analytics_.twbx as requested
     a) Static maps that plotted all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top
