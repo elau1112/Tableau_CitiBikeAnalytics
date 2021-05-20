@@ -17,11 +17,8 @@ A) Citi Bike Usage Characteristics
 
 B) Citi Bike User Characteristics
     > 2018 Male/Female ratio around the Citi Bike stations is around 0.71 to 0.97. However, male participation has been the majority in the region.
-
     > Proportion of female ridership has been increased constantly from ~21% in 2018 to ~23% in 2019. This was ~25% in 2020 despite the reduced number of user during the COVID pandemic.  
-    
     > Further strategic follow-up and gender outreach could be targeted to further increase the female ridership and also the user groups with age >40 years old. Live events / campaign may target to take place around the "peak" season of Citi Bike usage, i.e. around June to August (e.g. "Summer Festival") and around November to January (e.g. "Thanksgiving Citi Bike events") of the year. This could then follow by a spring event for a "blossom bike ride" to increase the awareness. In addition, "healthy bike ride" for users with a need / preference on longer ride and trip duration.
-
     > Proportion of short-term customers has been increasing from ~6% in 2018 to ~11% in 2019 and ~31% in 2020. The significant drop in annual subscribers in 2020 could be due to the restricted access / use of Citi Bike during the COVID pandemic. The subscribed users might not be able to use the Citi Bike as they normally did. Thus, they might tend to switch from an annual subscriber type to a short-term customer type.  
 
 C) Popular Citi Bike Stations in the City
