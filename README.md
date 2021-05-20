@@ -25,6 +25,9 @@ C) Popular Citi Bike Stations in the City
    > The popularity of Citi Bike Stations during the study period is shown. Grove St. Path has been the most popular stations for starting and ending a journey during the study period. 
    > The marketing events could target for stations with a "middle" level popularity currently.
 
+Limitations
+* This observation carries a study period of January 2018 to April 2021 only. It covered the trend study of around 3.5 years instead of 5 to 10 years study as changes and new pattern would be expected due to the onging pandemic situation. This allows a better coverage and studies of the dynamic factors in this analysis.
+* Obvious outliers or false data due to data entry error would be expected from this dataset type, which does not involve a source data verification process. E.g. this dataset involves user at age >120 years. To reduce bias risk, the effect or relationship was studied and compared via age range approach here to allow better review of age up to 100 years only in users with age 80 years old.
 
 With this report the following files are also included in this submission:
 i) Tableau: Citi Bike Analytics_.twbx as requested
